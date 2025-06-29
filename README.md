@@ -1,15 +1,18 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="500"/>
 </p>
 
-## 👋 Merhaba, ben Gülşen Gürbüz!
+<h1 align="center">👋 Merhaba, ben Gülşen Gürbüz!</h1>
 
-🎓 **Bilgisayar Mühendisliği mezunuyum.**  
-💻 Java, Python, frontend geliştirme ve veri bilimi üzerine çalışıyorum.  
-🤖 Yapay zeka, NLP ve modern web teknolojilerine ilgiliyim.
+<p align="center">
+  🎓 <b>Bilgisayar Mühendisliği mezunuyum.</b><br>
+  💻 Java, Python, frontend geliştirme ve veri bilimi alanlarında kendimi geliştirmeye devam ediyorum.<br>
+  🤖 Yapay zeka, Doğal Dil İşleme (NLP) ve modern web teknolojilerine büyük ilgi duyuyorum.
+</p>
 
 ---
 
-![Gulsengurbuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulsengurbuz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulsengurbuz&layout=compact&theme=tokyonight)
+## 🚀 Öne Çıkan Projeler
+🔹 [📂 Staj Personel Takip Sistemi Projesi](https://github.com/gulsengurbuz/Staj-personel-takip-sistemi)  
+🔹 [📂 Portfolio Websitesi](https://github.com/gulsengurbuz/portfolio)  
+🔹 [📂 NLP Kod]()
