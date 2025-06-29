@@ -5,14 +5,14 @@
 🤖 Yapay zeka, doğal dil işleme (NLP) ve modern web teknolojilerine ilgiliyim.
 
 📌 Öne Çıkan Projeler:
-- [Portfolio Website]()
-- [My Java Learning Projects](https://github.com/gulsengurbuz/My-Java-Learning-Projects-)
-- [Web Development Exercises](https://github.com/gulsengurbuz/Web_Gelistirme_Kursu_Uygulama_Kodlar-)
+
+  [Staj_personel_takip_sistemi_Projesi](https://github.com/gulsengurbuz/Staj-personel-takip-sistemi.git)
+  [Porfolio Websitesi](https://github.com/gulsengurbuz/portfolio.git)
+  [NLP Kodlarım](https://github.com/gulsengurbuz/NLP.git)
 
 🔗 **Bana ulaşın:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gulsen-g-39a42b225)
+[![LinkedIn](linkedin.com/in/gülşen-g-39a42b225)
 
----
 
 ⭐ Profilimi ziyaret ettiğiniz için teşekkürler!
 
