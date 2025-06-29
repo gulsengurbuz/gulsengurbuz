@@ -1,17 +1,16 @@
 name: Metrics
-
 on:
-  schedule: [{cron: "0 0 * * *"}]  # her gün otomatik çalıştırır
-  workflow_dispatch:              # manuel başlatabilirsin
-
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}  # BU SATIR ÇOK ÖNEMLİ!
           filename: github-metrics.svg
-          user: gulsengurbuz  # burası önemli: GitHub kullanıcı adın tam doğru olmalı
+          user: gulsengurbuz
           config_timezone: Europe/Istanbul
           template: classic
           base: header, activity, community, repositories, metadata
