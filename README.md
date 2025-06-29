@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Merhaba, ben Gülşen Gürbüz!
 
-<!--
-**gulsengurbuz/gulsengurbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği mezunuyum.  
+💻 Java, Python, frontend geliştirme ve veri bilimi alanlarında kendimi geliştirmekteyim.  
+🤖 Yapay zeka, doğal dil işleme (NLP) ve modern web teknolojilerine ilgiliyim.
 
-Here are some ideas to get you started:
+📌 Öne Çıkan Projeler:
+- [Portfolio Website]()
+- [My Java Learning Projects](https://github.com/gulsengurbuz/My-Java-Learning-Projects-)
+- [Web Development Exercises](https://github.com/gulsengurbuz/Web_Gelistirme_Kursu_Uygulama_Kodlar-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 **Bana ulaşın:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/gulsen-g-39a42b225)
+
+---
+
+⭐ Profilimi ziyaret ettiğiniz için teşekkürler!
+
