@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/gulsengurbuz/gulsengurbuz/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
-</p>
 
 <h1 align="center">👋 Merhaba, ben <strong>Gülşen Gürbüz</strong>!</h1>
 
