@@ -33,8 +33,9 @@
 
 ## 🛠️ Yetenekler ve Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,tensorflow,git,github&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,mysql,git,github&theme=dark" alt="My Skills" />
 </p>
+
 
 ---
 
