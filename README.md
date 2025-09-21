@@ -2,7 +2,8 @@
 
 # 👋 Merhaba, ben <strong>Gülşen Gürbüz</strong>!
 
-<em>Bilgisayar Mühendisliği Mezunu • Java & Python • Frontend & Veri Bilimi • NLP & AI</em>
+<em>Bilgisayar Mühendisliği Mezunuyum • HTML/CSS/JS • PHP & MySQL • Python (başlangıç) • Java (giriş) • Data Analytics & Data Mining (ilgi) • Blockchain (TÜBİTAK)</em>
+
 
 </div>
 
@@ -55,7 +56,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   &nbsp;
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:gurbuzgulsen920@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-Contact-red?logo=gmail&style=for-the-badge" alt="Email Badge" />
   </a>
 </p>
