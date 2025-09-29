@@ -11,8 +11,8 @@
 
 ## 🚀 Hakkımda
 - 🎓 Bilgisayar Mühendisliği mezunuyum.  
-- 💻 Java, Python, HTML, CSS, JavaScript ve PHP ile projeler geliştirdim.  
-- 🤖 Yapay zeka, NLP ve modern web teknolojilerine ilgi duyuyorum.  
+- 💻 Java, Php, Python, HTML, CSS, JavaScript ve PHP ile projeler geliştirdim.  
+- 🤖 Veri Madenciliği, NLP ve modern web teknolojilerine ilgi duyuyorum.  
 - 📈 Kendimi sürekli geliştirmeye devam ediyorum.
 
 ---
@@ -25,8 +25,8 @@
 ---
 
 ## 📌 Öne Çıkan Projeler
-- [📂 **Personel Takip Sistemi**](https://github.com/gulsengurbuz/Staj-personel-takip-sistemi) – Dinamik izin/ödeme yönetimi  
-- [📂 **Portfolio Websitesi**](https://github.com/gulsengurbuz/portfolio) – Kişisel portföyüm  
+- [📂 **Web tabanlı etkileşimli blockchain simülasyonu**](https://github.com/gulsengurbuz/Web-tabanl-etkile-imli-blockchain-sim-lasyonu.git) – Bitirme Projem 
+- [📂 **Personel Takip Sistemi**](https://github.com/gulsengurbuz/Staj-personel-takip-sistemi) – Staj Projem
 - [📂 **NLP Kodlarım**](https://github.com/gulsengurbuz/NLP) – NLP ödev ve çalışmalarım
 
 ---
