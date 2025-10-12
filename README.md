@@ -22,7 +22,7 @@
 - [📂 **Personel Takip Sistemi**](https://github.com/gulsengurbuz/Staj-personel-takip-sistemi) – Staj Projem
 - [📂 **NLP Kodlarım**](https://github.com/gulsengurbuz/NLP) – NLP ödev ve çalışmalarım
 
----
+
 
 ## 🛠️ Yetenekler ve Teknolojiler
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 
----
+
 
 ## 🏆 İstatistikler & Aktiviteler
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gulsengurbuz&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" width="95%" />
 </p>
 
----
+
 
 ## 🌐 İletişim & Sosyal Medya
 <p align="center">
