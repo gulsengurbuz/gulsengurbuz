@@ -17,11 +17,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://github.com/gulsengurbuz/gulsengurbuz/blob/main/github-metrics.svg" alt="Metrics" width="95%" />
-</p>
-
 ---
 
 ## 📌 Öne Çıkan Projeler
