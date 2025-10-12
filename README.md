@@ -7,7 +7,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Hakkımda
 - 🎓 Bilgisayar Mühendisliği mezunuyum.  
@@ -16,7 +16,6 @@
 - 📈 Kendimi sürekli geliştirmeye devam ediyorum.
 
 
----
 
 ## 📌 Öne Çıkan Projeler
 - [📂 **Web tabanlı etkileşimli blockchain simülasyonu**](https://github.com/gulsengurbuz/Web-tabanl-etkile-imli-blockchain-sim-lasyonu.git) – Bitirme Projem 
