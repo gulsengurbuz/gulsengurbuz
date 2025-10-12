@@ -15,7 +15,6 @@
 - 🤖 Veri Madenciliği, NLP ve modern web teknolojilerine ilgi duyuyorum.  
 - 📈 Kendimi sürekli geliştirmeye devam ediyorum.
 
----
 
 ---
 
